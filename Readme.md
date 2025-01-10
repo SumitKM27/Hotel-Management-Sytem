@@ -1,4 +1,4 @@
- ## Hotel Booking Management System
+ ## Hotel Management System
 
 Hotel Paradise is a modern, user-friendly web application designed to offer a seamless hotel booking experience. This website caters to travelers looking for luxury accommodations, allowing them to explore available rooms, view services, and easily book their stay. Built using Java, Servlets, JSP, HTML, CSS, and JavaScript, the application provides an interactive and visually appealing user experience.
 
@@ -48,21 +48,26 @@ The website leverages a robust backend for handling user data, bookings, and pay
 │   │   ├── resources
 │   │   └── webapp
 │   │       ├── WEN-INF
+│   │       ├── booking.css
+│   │       ├── booking.html
+│   │       ├── booking.js
+│   │       ├── hero-bg.jpg
 │   │       ├── index.html
+│   │       ├── logo.png
+│   │       ├── room1.jpg
+│   │       ├── room2.jpg
+│   │       ├── room3.jpg
 │   │       ├── script.js
-│   │       ├── searchResults.jsp
-│   │       ├── style.css
-│   │       └── subscribe.jsp
-│   ├── Java project report.pdf
-│   └── Java ppt.pdf
+│   │       └── style.css 
+│   └── Report File.pdf
 ├── target
 │   ├── classes
 │   ├── maven-archiver
 │   ├── maven-status
-│   ├── test-classes
 │   └── web-project-1.0-SNAPSHOT.war
 ├── test
 │   ├── UserDAO.java
+│   ├── UserDAOImpl.java
 │   ├── UserDAOTest.java
 │   ├── UserService.java
 │   └── UserServiceTest.java
@@ -118,4 +123,4 @@ For Windows, use:
 
 ## Documentation
 
-Report file of the project: [Documentation](https://github.com/agrawalvanshika/Job-portal-with-skill-assessment/blob/main/src/main/Java%20project%20report.pdf)
+Report file of the project: [Documentation](https://github.com/SumitKM27/Hotel-Management-Sytem/blob/main/src/Report%20File.pdf)
