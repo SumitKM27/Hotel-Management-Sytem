@@ -66,9 +66,9 @@ The website leverages a robust backend for handling user data, bookings, and pay
 │   ├── maven-status
 │   └── web-project-1.0-SNAPSHOT.war
 ├── test
-│   ├── UserDAO.java
-│   ├── UserDAOImpl.java
-│   ├── UserDAOTest.java
+│   ├── UserDao.java
+│   ├── UserDaoImpl.java
+│   ├── UserDaoTest.java
 │   ├── UserService.java
 │   └── UserServiceTest.java
 ├── Final Review.md
