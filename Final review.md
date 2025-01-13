@@ -12,7 +12,7 @@ We had completed all the work given by GUVI and the checklist of the project wor
 - [✓] Used JSTL and EL in JSP pages
 
 ## Completed Tasks of REVIEW 4
-- [✓] Create unit tests for service & DAO
+- [✓] Created unit tests for service & DAO
 - [✓] Completed the final review of the project(You are on the same file of final review)
 - [✓] Prepared project documentation (Added in readme file)
 
